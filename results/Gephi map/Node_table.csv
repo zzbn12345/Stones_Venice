@@ -1,0 +1,494 @@
+Id	Label
+0	Building Elements
+1	Urban Form Elements
+2	Gastronomy
+3	Interior Scenery
+4	Natural Features and Landscape Scenery
+5	Monuments and Buildings
+6	Peoples Activity and Association
+7	Artifact Products
+8	Urban Scenery
+10	Criterion i
+11	Criterion ii
+12	Criterion iii
+13	Criterion iv
+14	Criterion v
+15	Criterion vi
+16	Criterion vii
+17	Criterion viii
+18	Criterion ix
+19	Criterion x
+20	Others
+512	FACE Number
+513	FACE Confidence
+514	FACE Proportion
+515	SCE airfield
+516	SCE airplane cabin
+517	SCE airport terminal
+518	SCE alcove
+519	SCE alley
+520	SCE amphitheater
+521	SCE amusement arcade
+522	SCE amusement park
+523	SCE apartment buildingoutdoor
+524	SCE aquarium
+525	SCE aqueduct
+526	SCE arcade
+527	SCE arch
+528	SCE archaelogical excavation
+529	SCE archive
+530	SCE arenahockey
+531	SCE arenaperformance
+532	SCE arenarodeo
+533	SCE army base
+534	SCE art gallery
+535	SCE art school
+536	SCE art studio
+537	SCE artists loft
+538	SCE assembly line
+539	SCE athletic fieldoutdoor
+540	SCE atriumpublic
+541	SCE attic
+542	SCE auditorium
+543	SCE auto factory
+544	SCE auto showroom
+545	SCE badlands
+546	SCE bakeryshop
+547	SCE balconyexterior
+548	SCE balconyinterior
+549	SCE ball pit
+550	SCE ballroom
+551	SCE bamboo forest
+552	SCE bank vault
+553	SCE banquet hall
+554	SCE bar
+555	SCE barn
+556	SCE barndoor
+557	SCE baseball field
+558	SCE basement
+559	SCE basketball courtindoor
+560	SCE bathroom
+561	SCE bazaarindoor
+562	SCE bazaaroutdoor
+563	SCE beach
+564	SCE beach house
+565	SCE beauty salon
+566	SCE bedchamber
+567	SCE bedroom
+568	SCE beer garden
+569	SCE beer hall
+570	SCE berth
+571	SCE biology laboratory
+572	SCE boardwalk
+573	SCE boat deck
+574	SCE boathouse
+575	SCE bookstore
+576	SCE boothindoor
+577	SCE botanical garden
+578	SCE bow windowindoor
+579	SCE bowling alley
+580	SCE boxing ring
+581	SCE bridge
+582	SCE building facade
+583	SCE bullring
+584	SCE burial chamber
+585	SCE bus interior
+586	SCE bus stationindoor
+587	SCE butchers shop
+588	SCE butte
+589	SCE cabinoutdoor
+590	SCE cafeteria
+591	SCE campsite
+592	SCE campus
+593	SCE canalnatural
+594	SCE canalurban
+595	SCE candy store
+596	SCE canyon
+597	SCE car interior
+598	SCE carrousel
+599	SCE castle
+600	SCE catacomb
+601	SCE cemetery
+602	SCE chalet
+603	SCE chemistry lab
+604	SCE childs room
+605	SCE churchindoor
+606	SCE churchoutdoor
+607	SCE classroom
+608	SCE clean room
+609	SCE cliff
+610	SCE closet
+611	SCE clothing store
+612	SCE coast
+613	SCE cockpit
+614	SCE coffee shop
+615	SCE computer room
+616	SCE conference center
+617	SCE conference room
+618	SCE construction site
+619	SCE corn field
+620	SCE corral
+621	SCE corridor
+622	SCE cottage
+623	SCE courthouse
+624	SCE courtyard
+625	SCE creek
+626	SCE crevasse
+627	SCE crosswalk
+628	SCE dam
+629	SCE delicatessen
+630	SCE department store
+631	SCE desertsand
+632	SCE desertvegetation
+633	SCE desert road
+634	SCE dineroutdoor
+635	SCE dining hall
+636	SCE dining room
+637	SCE discotheque
+638	SCE doorwayoutdoor
+639	SCE dorm room
+640	SCE downtown
+641	SCE dressing room
+642	SCE driveway
+643	SCE drugstore
+644	SCE elevatordoor
+645	SCE elevator lobby
+646	SCE elevator shaft
+647	SCE embassy
+648	SCE engine room
+649	SCE entrance hall
+650	SCE escalatorindoor
+651	SCE excavation
+652	SCE fabric store
+653	SCE farm
+654	SCE fastfood restaurant
+655	SCE fieldcultivated
+656	SCE fieldwild
+657	SCE field road
+658	SCE fire escape
+659	SCE fire station
+660	SCE fishpond
+661	SCE flea marketindoor
+662	SCE florist shopindoor
+663	SCE food court
+664	SCE football field
+665	SCE forestbroadleaf
+666	SCE forest path
+667	SCE forest road
+668	SCE formal garden
+669	SCE fountain
+670	SCE galley
+671	SCE garageindoor
+672	SCE garageoutdoor
+673	SCE gas station
+674	SCE gazeboexterior
+675	SCE general storeindoor
+676	SCE general storeoutdoor
+677	SCE gift shop
+678	SCE glacier
+679	SCE golf course
+680	SCE greenhouseindoor
+681	SCE greenhouseoutdoor
+682	SCE grotto
+683	SCE gymnasiumindoor
+684	SCE hangarindoor
+685	SCE hangaroutdoor
+686	SCE harbor
+687	SCE hardware store
+688	SCE hayfield
+689	SCE heliport
+690	SCE highway
+691	SCE home office
+692	SCE home theater
+693	SCE hospital
+694	SCE hospital room
+695	SCE hot spring
+696	SCE hoteloutdoor
+697	SCE hotel room
+698	SCE house
+699	SCE hunting lodgeoutdoor
+700	SCE ice cream parlor
+701	SCE ice floe
+702	SCE ice shelf
+703	SCE ice skating rinkindoor
+704	SCE ice skating rinkoutdoor
+705	SCE iceberg
+706	SCE igloo
+707	SCE industrial area
+708	SCE innoutdoor
+709	SCE islet
+710	SCE jacuzziindoor
+711	SCE jail cell
+712	SCE japanese garden
+713	SCE jewelry shop
+714	SCE junkyard
+715	SCE kasbah
+716	SCE kenneloutdoor
+717	SCE kindergarden classroom
+718	SCE kitchen
+719	SCE lagoon
+720	SCE lakenatural
+721	SCE landfill
+722	SCE landing deck
+723	SCE laundromat
+724	SCE lawn
+725	SCE lecture room
+726	SCE legislative chamber
+727	SCE libraryindoor
+728	SCE libraryoutdoor
+729	SCE lighthouse
+730	SCE living room
+731	SCE loading dock
+732	SCE lobby
+733	SCE lock chamber
+734	SCE locker room
+735	SCE mansion
+736	SCE manufactured home
+737	SCE marketindoor
+738	SCE marketoutdoor
+739	SCE marsh
+740	SCE martial arts gym
+741	SCE mausoleum
+742	SCE medina
+743	SCE mezzanine
+744	SCE moatwater
+745	SCE mosqueoutdoor
+746	SCE motel
+747	SCE mountain
+748	SCE mountain path
+749	SCE mountain snowy
+750	SCE movie theaterindoor
+751	SCE museumindoor
+752	SCE museumoutdoor
+753	SCE music studio
+754	SCE natural history museum
+755	SCE nursery
+756	SCE nursing home
+757	SCE oast house
+758	SCE ocean
+759	SCE office
+760	SCE office building
+761	SCE office cubicles
+762	SCE oilrig
+763	SCE operating room
+764	SCE orchard
+765	SCE orchestra pit
+766	SCE pagoda
+767	SCE palace
+768	SCE pantry
+769	SCE park
+770	SCE parking garageindoor
+771	SCE parking garageoutdoor
+772	SCE parking lot
+773	SCE pasture
+774	SCE patio
+775	SCE pavilion
+776	SCE pet shop
+777	SCE pharmacy
+778	SCE phone booth
+779	SCE physics laboratory
+780	SCE picnic area
+781	SCE pier
+782	SCE pizzeria
+783	SCE playground
+784	SCE playroom
+785	SCE plaza
+786	SCE pond
+787	SCE porch
+788	SCE promenade
+789	SCE pubindoor
+790	SCE racecourse
+791	SCE raceway
+792	SCE raft
+793	SCE railroad track
+794	SCE rainforest
+795	SCE reception
+796	SCE recreation room
+797	SCE repair shop
+798	SCE residential neighborhood
+799	SCE restaurant
+800	SCE restaurant kitchen
+801	SCE restaurant patio
+802	SCE rice paddy
+803	SCE river
+804	SCE rock arch
+805	SCE roof garden
+806	SCE rope bridge
+807	SCE ruin
+808	SCE runway
+809	SCE sandbox
+810	SCE sauna
+811	SCE schoolhouse
+812	SCE science museum
+813	SCE server room
+814	SCE shed
+815	SCE shoe shop
+816	SCE shopfront
+817	SCE shopping mallindoor
+818	SCE shower
+819	SCE ski resort
+820	SCE ski slope
+821	SCE sky
+822	SCE skyscraper
+823	SCE slum
+824	SCE snowfield
+825	SCE soccer field
+826	SCE stable
+827	SCE stadiumbaseball
+828	SCE stadiumfootball
+829	SCE stadiumsoccer
+830	SCE stageindoor
+831	SCE stageoutdoor
+832	SCE staircase
+833	SCE storage room
+834	SCE street
+835	SCE subway stationplatform
+836	SCE supermarket
+837	SCE sushi bar
+838	SCE swamp
+839	SCE swimming hole
+840	SCE swimming poolindoor
+841	SCE swimming pooloutdoor
+842	SCE synagogueoutdoor
+843	SCE television room
+844	SCE television studio
+845	SCE templeasia
+846	SCE throne room
+847	SCE ticket booth
+848	SCE topiary garden
+849	SCE tower
+850	SCE toyshop
+851	SCE train interior
+852	SCE train stationplatform
+853	SCE tree farm
+854	SCE tree house
+855	SCE trench
+856	SCE tundra
+857	SCE underwaterocean deep
+858	SCE utility room
+859	SCE valley
+860	SCE vegetable garden
+861	SCE veterinarians office
+862	SCE viaduct
+863	SCE village
+864	SCE vineyard
+865	SCE volcano
+866	SCE volleyball courtoutdoor
+867	SCE waiting room
+868	SCE water park
+869	SCE water tower
+870	SCE waterfall
+871	SCE watering hole
+872	SCE wave
+873	SCE wet bar
+874	SCE wheat field
+875	SCE wind farm
+876	SCE windmill
+877	SCE yard
+878	SCE youth hostel
+879	SCE zen garden
+880	SUN boating
+881	SUN driving
+882	SUN biking
+883	SUN transporting
+884	SUN sunbathing
+885	SUN touring
+886	SUN hiking
+887	SUN climbing
+888	SUN camping
+889	SUN reading
+890	SUN studying
+891	SUN training
+892	SUN research
+893	SUN diving
+894	SUN swimming
+895	SUN bathing
+896	SUN eating
+897	SUN cleaning
+898	SUN socializing
+899	SUN congregating
+900	SUN waiting in line
+901	SUN competing
+902	SUN sports
+903	SUN exercise
+904	SUN playing
+905	SUN gaming
+906	SUN spectating
+907	SUN farming
+908	SUN constructing
+909	SUN shopping
+910	SUN medical activity
+911	SUN working
+912	SUN using tools
+913	SUN digging
+914	SUN conducting business
+915	SUN praying
+916	SUN fencing
+917	SUN railing
+918	SUN wire
+919	SUN railroad
+920	SUN trees
+921	SUN grass
+922	SUN vegetation
+923	SUN shrubbery
+924	SUN foliage
+925	SUN leaves
+926	SUN flowers
+927	SUN asphalt
+928	SUN pavement
+929	SUN shingles
+930	SUN carpet
+931	SUN brick
+932	SUN tiles
+933	SUN concrete
+934	SUN metal
+935	SUN paper
+936	SUN wood
+937	SUN vinyl
+938	SUN plastic
+939	SUN cloth
+940	SUN sand
+941	SUN rock
+942	SUN dirt
+943	SUN marble
+944	SUN glass
+945	SUN surf
+946	SUN ocean
+947	SUN running water
+948	SUN still water
+949	SUN ice
+950	SUN snow
+951	SUN clouds
+952	SUN smoke
+953	SUN fire
+954	SUN natural light
+955	SUN sunny
+956	SUN indoor lighting
+957	SUN aged
+958	SUN glossy
+959	SUN matte
+960	SUN sterile
+961	SUN moist
+962	SUN dry
+963	SUN dirty
+964	SUN rusty
+965	SUN warm
+966	SUN cold
+967	SUN natural
+968	SUN man-made
+969	SUN open area
+970	SUN semi-enclosed area
+971	SUN enclosed area
+972	SUN far-away horizon
+973	SUN no horizon
+974	SUN rugged scene
+975	SUN vertical components
+976	SUN horizontal components
+977	SUN symmetrical
+978	SUN cluttered space
+979	SUN scary
+980	SUN soothing
+981	SUN stressful
+1750	LANG English
+1751	LANG Local
+1752	LANG Other
