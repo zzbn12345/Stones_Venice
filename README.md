@@ -2,6 +2,8 @@
 
 This is the Code and Dataset for the Paper '*Screening the stones of Venice: Mapping social perceptions of cultural significance through graph-based semi-supervised classification*' published in *ISPRS Journal of Photogrammetry and Remote Sensing* showing the mapping of cultural significance in the city of Venice.
 
+[![DOI](https://zenodo.org/badge/693302109.svg)](https://zenodo.org/badge/latestdoi/693302109)
+
 ## Cite as
 
 Bai, N., Nourian, P., Luo, R., Cheng, T., & Pereira Roders, A. (2023). Screening the stones of Venice: Mapping social perceptions of cultural significance through graph-based semi-supervised classification. ISPRS Journal of Photogrammetry and Remote Sensing, 203, 135-164. https://doi.org/10.1016/j.isprsjprs.2023.07.018
