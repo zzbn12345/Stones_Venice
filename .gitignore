@@ -1,0 +1,5 @@
+
+dataset/GEO_dataset/VEN-XL/GEO_metadata.csv
+dataset/GEO_dataset/VEN-XL/GEO_node_dist.csv
+model_storage/GCN/GCN_best_model/model.pth
+model_storage/GCN/GCN_knn_feature/model.pth
